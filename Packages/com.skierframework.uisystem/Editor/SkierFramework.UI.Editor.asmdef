@@ -1,0 +1,21 @@
+{
+  "name": "SkierFramework.UI.Editor",
+  "rootNamespace": "SkierFramework.EditorTools",
+  "references": [
+    "SkierFramework.UI",
+    "Unity.TextMeshPro",
+    "Unity.ugui",
+    "Unity.Nuget.Newtonsoft-Json"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

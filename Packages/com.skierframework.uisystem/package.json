@@ -1,0 +1,21 @@
+{
+  "name": "com.skierframework.uisystem",
+  "version": "1.0.0",
+  "displayName": "Skier UI System",
+  "description": "A modular UGUI framework with pluggable resource backend (Resources / YooAsset / Addressables) and PrimeTween-based tweening. Requires UniTask installed in your project.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.textmeshpro": "3.0.7",
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "samples": [
+    {
+      "displayName": "Demo Scenes",
+      "description": "Login / Loading / MessageBox sample scenes.",
+      "path": "Samples~/DemoScenes"
+    }
+  ],
+  "keywords": ["ui", "ugui", "framework", "primetween", "unitask"],
+  "author": { "name": "ArnoldRedman", "url": "https://github.com/ArnoldRedman" }
+}

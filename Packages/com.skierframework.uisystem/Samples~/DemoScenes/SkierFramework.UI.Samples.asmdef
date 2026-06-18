@@ -1,0 +1,20 @@
+{
+  "name": "SkierFramework.UI.Samples",
+  "rootNamespace": "SkierFramework",
+  "references": [
+    "SkierFramework.UI",
+    "Unity.TextMeshPro",
+    "Unity.ugui",
+    "PrimeTween.Runtime",
+    "UniTask"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
